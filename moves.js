@@ -96,4 +96,4 @@ const move_array=["After You",
                  "Disarming Voice",
                  "Play Rough",
                  "Sweet Kiss"];
-output=tie_array[Math.floor(Math.random()*move_array.length)]
+output=move_array[Math.floor(Math.random()*move_array.length)]
