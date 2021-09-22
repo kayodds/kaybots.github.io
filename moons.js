@@ -55,7 +55,7 @@ const moon_array=["Slipping Through the Poison Tide",
                   "Picture Match: A Stellar Goomba!",
                   "Inside the Stone Cage",
                   "Wrecked Rock Block",
-                  "Twist 'n' Turn-Up Treasure"
+                  "Twist 'n' Turn-Up Treasure",
                   "The Caged Gold",
                   "Get Some Rest, Captain Toad",
                   "Taxi Flying Through Forgotten Isle",
