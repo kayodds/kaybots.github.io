@@ -4,7 +4,7 @@ const moon_array=["Slipping Through the Poison Tide",
                   "Roll On and On",
                   "Precision Rolling",
                   "Chomp Through the Rocks",
-                  "Good Morning, Captain Toad!"
+                  "Good Morning, Captain Toad!",
                   "Caveman Cave-Fan",
                   "Just a Hat, Skip, and a Jump",
                   "Treasure Under the Cliff",
