@@ -13,6 +13,6 @@ const moon_array=["Slipping Through the Poison Tide",
                   "Showdown on the Inverted Pyramid",
                   "The Hole in the Desert",
                   "Alcove in the Ruins",
-                  "Secret of the Mural,
+                  "Secret of the Mural",
                   "Where the Birds Gather"];
 output=moon_array[Math.floor(Math.random()*moon_array.length)]
