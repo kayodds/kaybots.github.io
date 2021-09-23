@@ -1,4 +1,4 @@
-const products=["Dinosaur Egg",
+const products_array=["Dinosaur Egg",
                 "Duck Egg",
                 "Duck Feather",
                 "Egg",
