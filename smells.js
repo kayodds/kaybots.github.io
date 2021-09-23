@@ -31,7 +31,7 @@ const smells_array=["Perfume",
                      "Bus Exhaust",
                      "Livestock",
                      "Burnt Rubber",
-                     "Burnt Toast,
+                     "Burnt Toast",
                      "A bag of cheetos",
                      "Sour Milk",
                      "Cigar Smoke"];
