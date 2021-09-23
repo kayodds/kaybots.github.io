@@ -1,0 +1,17 @@
+const minerals_array=["Quartz",
+                      "Earh Crystal",
+                      "Frozen Tear",
+                      "Fire Quartz",
+                      "Emerald",
+                      "Aquamarine",
+                      "Ruby",
+                      "Amethyst",
+                      "Topaz",
+                      "Jade",
+                      "Diamond",
+                      "Opal",
+                      "Fire Opal",
+                      "Obsidian",
+                      "Marble",
+                      "Granite"];
+output=minerals_array[Math.floor(Math.random()*minerals_array.length)]
