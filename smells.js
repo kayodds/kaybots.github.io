@@ -11,7 +11,7 @@ const smells_array=["Perfume",
                      "Cookies Fresh out of the Oven",
                      "Melting Chocolate",
                      "Rain over a grassy Field",
-                     "Wales"
+                     "Wales",
                      "Bacon",
                      "Clothes Fresh out of the Drier",
                      "Wet Dog",
