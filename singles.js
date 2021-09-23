@@ -9,5 +9,6 @@ const singles_array=["Alex",
                      "Haley",
                      "Leah",
                      "Maru",
-                     "Penny"];
+                     "Penny",
+                     "Krobus"];
 output=singles_array[Math.floor(Math.random()*singles_array.length)]
