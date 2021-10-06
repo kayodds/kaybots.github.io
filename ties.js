@@ -44,6 +44,6 @@ const tie_array=[" Floral ",
                  " Nicely tied ",
                  " Very poorly tied ",
                  " Not tied, kind of laying on the shoulders ",
-                 " Unique and very valid ",
+                 "n Unique and very valid ",
                  " 400 dollars " ];
 output=tie_array[Math.floor(Math.random()*tie_array.length)]
