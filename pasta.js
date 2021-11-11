@@ -31,5 +31,6 @@ const pasta_array=["Angel's Hair",
                    "Jumbo shells",
                    "Mezzelune",
                    "Gnocchi",
-                   "Copypasta"];
+                   "Copypasta",
+                   "Alphabet Soup"];
 output=pasta_array[Math.floor(Math.random()*pasta_array.length)]
