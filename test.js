@@ -1,5 +1,5 @@
 const test_array=[["Test2 was", "Test2 do be"],
                   ["This test2 is","Test2 is indeed"]];
-a = Math.floor(Math.random()*2)
-b = Math.floor(Math.random()*2)
-output=test_array[a][b]+' succesful'
+var a = Math.floor(Math.random()*2)
+var b = Math.floor(Math.random()*2)
+const output=test_array[a][b]+' succesful'
