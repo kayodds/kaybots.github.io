@@ -38,6 +38,5 @@ const mods_array=["Kat",
                   "Timing out italian in another chat",
                   "Dani's wife",
                   "Rach's wife",
-                  "KatHus' wife",
                   "The one with a funny discord name"];
 output=mods_array[Math.floor(Math.random()*mods_array.length)]
