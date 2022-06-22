@@ -20,5 +20,6 @@ const deaths_array=["https://www.twitch.tv/italian6th/clip/CrazyBlazingEmuJonCar
                     "https://www.twitch.tv/italian6th/clip/SuccessfulPopularEggPeteZaroll-XkT_QXPOPg4vqHAr",
                     "https://www.twitch.tv/italian6th/clip/KindShortSashimiTBCheesePull-zdTvc2LP4_RjOSgR",
                     "https://www.twitch.tv/italian6th/clip/SpotlessSlipperyPelicanBuddhaBar-RLqvhoCsLA_-m5kA",
+                    "https://www.twitch.tv/italian6th/clip/CoweringCrowdedGoblinTBTacoRight-2awAmzJvaCsqaGg8",
                    "https://www.twitch.tv/italian6th/clip/BenevolentCourageousButterTBTacoRight-TvSXhyUE3hlgzpLr"];
 output=deaths_array[Math.floor(Math.random()*deaths_array.length)]
