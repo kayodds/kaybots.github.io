@@ -12,5 +12,13 @@ const deaths_array=["https://www.twitch.tv/italian6th/clip/CrazyBlazingEmuJonCar
                     "https://www.twitch.tv/italian6th/clip/WanderingTacitPuppyGrammarKing-xB-Kp0coq0OExOK6",
                     "https://www.twitch.tv/italian6th/clip/AmazingMoldyHamKippa",
                     "https://www.twitch.tv/italian6th/clip/AmericanAuspiciousSpindleKappa",
+                    "https://www.twitch.tv/italian6th/clip/DistinctHungryCurlewKlappa-r7Hn9YdZcToCO-bN",
+                    "https://www.twitch.tv/italian6th/clip/CuteHedonisticScorpionChefFrank-uSkVkdWA1FVmqUuf",
+                    "https://www.twitch.tv/italian6th/clip/CheerfulCorrectArtichokePunchTrees-PWCOfOH8T88RWAAr",
+                    "https://www.twitch.tv/italian6th/clip/LazyKindSpiderKAPOW-iPr4_ftIMVniktDw",
+                    "https://www.twitch.tv/italian6th/clip/ObedientClumsyWaterHoneyBadger-uQVlCKo6pmH87N7A",
+                    "https://www.twitch.tv/italian6th/clip/SuccessfulPopularEggPeteZaroll-XkT_QXPOPg4vqHAr",
+                    "https://www.twitch.tv/italian6th/clip/KindShortSashimiTBCheesePull-zdTvc2LP4_RjOSgR",
+                    "https://www.twitch.tv/italian6th/clip/SpotlessSlipperyPelicanBuddhaBar-RLqvhoCsLA_-m5kA",
                    "https://www.twitch.tv/italian6th/clip/BenevolentCourageousButterTBTacoRight-TvSXhyUE3hlgzpLr"];
 output=deaths_array[Math.floor(Math.random()*deaths_array.length)]
