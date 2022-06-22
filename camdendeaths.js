@@ -1,0 +1,16 @@
+const deaths_array=["https://www.twitch.tv/italian6th/clip/CrazyBlazingEmuJonCarnage-XNHWHUP6hGI-pj62",
+                    "https://www.twitch.tv/italian6th/clip/HilariousRepleteSproutWTRuck",
+                    "https://www.twitch.tv/italian6th/clip/BenevolentCoweringSandwichAliens",
+                    "https://www.twitch.tv/italian6th/clip/DoubtfulSleepyDragonTTours-Dh_nf6sICug4oRs3",
+                    "https://www.twitch.tv/italian6th/clip/ArtisticColdOstrichPupper-7bPd98xaxctzeJtz",
+                    "https://www.twitch.tv/italian6th/clip/AuspiciousInnocentWatermelonKappaClaus-XY-zKos8jHWVhm-3",
+                    "https://www.twitch.tv/italian6th/clip/FuriousInterestingPassionfruitBabyRage-VV9a3Z27Id0JBM_W",
+                    "https://www.twitch.tv/italian6th/clip/GrossCrunchySowBabyRage-J_blr72_u6k_dxoZ",
+                    "https://www.twitch.tv/italian6th/clip/ResilientAnnoyingDogRiPepperonis-JGB-3QS4jxGWqrZB",
+                    "https://www.twitch.tv/italian6th/clip/CharmingSullenPelicanKappa-Z6rj3dcQm0AS3DYV",
+                    "https://www.twitch.tv/italian6th/clip/ResourcefulOptimisticPuppyNerfRedBlaster-WcVZZfmAHcZFq70y",
+                    "https://www.twitch.tv/italian6th/clip/WanderingTacitPuppyGrammarKing-xB-Kp0coq0OExOK6",
+                    "https://www.twitch.tv/italian6th/clip/AmazingMoldyHamKippa",
+                    "https://www.twitch.tv/italian6th/clip/AmericanAuspiciousSpindleKappa",
+                   "https://www.twitch.tv/italian6th/clip/BenevolentCourageousButterTBTacoRight-TvSXhyUE3hlgzpLr"];
+output=deaths_array[Math.floor(Math.random()*deaths_array.length)]
