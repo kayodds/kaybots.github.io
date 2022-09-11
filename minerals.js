@@ -1,5 +1,5 @@
 const minerals_array=["Quartz",
-                      "Earh Crystal",
+                      "Earth Crystal",
                       "Frozen Tear",
                       "Fire Quartz",
                       "Emerald",
