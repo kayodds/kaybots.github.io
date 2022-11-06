@@ -1,0 +1,28 @@
+const ntr_array=[
+  "Hardy",
+  "Bold",
+  "Modest",
+  "Calm",
+  "Timid",
+  "Lonely",
+  "Docile",
+  "Mild",
+  "Gentle",
+  "Hasty",
+  "Adamant",
+  "Impish",
+  "Bashful",
+  "Careful",
+  "Jolly",
+  "Naughty",
+  "Lax",
+  "Rash",
+  "Quirky",
+  "Naive",
+  "Brave",
+  "Relaxed",
+  "Quiet",
+  "Sassy",
+  "Serious"
+];
+output=ntr_array[Math.floor(Math.random()*ntr_array.length)]
