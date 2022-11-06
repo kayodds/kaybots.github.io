@@ -86,7 +86,7 @@ const cities_array=["Pallet Town",
                     "Motostoke",
                     "Turffield",
                     "Hulbury",
-                    "Hammerlocke"
+                    "Hammerlocke",
                     "Stow-on-Side",
                     "Ballonlea",
                     "Circhester",
