@@ -74,7 +74,7 @@ const starter_array=["Bulbasaur",
                     "Pidove",
                     "Porygon",
                     "Rhyhorn",
-                    "Roggenrola"
+                    "Roggenrola",
                     "Rolycoly",
                     "Rokidee",
                     "Sandile",
