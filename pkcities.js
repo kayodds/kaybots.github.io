@@ -91,6 +91,18 @@ const cities_array=["Pallet Town",
                     "Ballonlea",
                     "Circhester",
                     "Spikemuth",
-                    "Wyndon"
+                    "Wyndon",
+                    "Cabo Poco",
+                    "Los Platos",
+                    "Mesagoza",
+                    "Cortondo",
+                    "Artazon",
+                    "Levincia",
+                    "Alfornada",
+                    "Cascarrafa",
+                    "Porto Marinada",
+                    "Medali",
+                    "Zapapico",
+                    "Montenevera"
                    ];
 output=cities_array[Math.floor(Math.random()*cities_array.length)]
