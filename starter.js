@@ -98,5 +98,10 @@ const starter_array=["Bulbasaur",
                     "Weedle",
                     "Whismur",
                     "Zigzagoon",
-                    "Zubat"];
+                    "Zubat",
+                    "Pawmi",
+                    "Smoliv",
+                    "Nacli",
+                    "Tinkatink",
+                    "Frigibax"];
 output=starter_array[Math.floor(Math.random()*starter_array.length)]
