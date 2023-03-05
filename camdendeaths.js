@@ -22,5 +22,6 @@ const deaths_array=["https://www.twitch.tv/italian6th/clip/CrazyBlazingEmuJonCar
                     "https://www.twitch.tv/italian6th/clip/SpotlessSlipperyPelicanBuddhaBar-RLqvhoCsLA_-m5kA",
                     "https://www.twitch.tv/italian6th/clip/CoweringCrowdedGoblinTBTacoRight-2awAmzJvaCsqaGg8",
                    "https://www.twitch.tv/italian6th/clip/BenevolentCourageousButterTBTacoRight-TvSXhyUE3hlgzpLr",
-                   "https://clips.twitch.tv/BeautifulJoyousFerretMcaT-JB_RicfdN8-sgZgV"];
+                   "https://clips.twitch.tv/BeautifulJoyousFerretMcaT-JB_RicfdN8-sgZgV",
+                   "https://clips.twitch.tv/AgreeableConcernedOstrichMikeHogu--PCO9juskFKzsXWF"];
 output=deaths_array[Math.floor(Math.random()*deaths_array.length)]
