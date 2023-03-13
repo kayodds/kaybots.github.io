@@ -10,5 +10,8 @@ const tabs_array=["win in 5 seconds",
                  "achieve victory after a lot of time",
                  "be ran over in their way to the battle",
                  "hit them with a bucket of water",
-                 "win big"];
+                 "win big",
+                 "become BFFs",
+                 "die together",
+                 "actually go home and play Mario Kart"];
 output=tabs_array[Math.floor(Math.random()*tabs_array.length)]
