@@ -17,6 +17,5 @@ const kay_array=["looking for flags on etsy",
                  "laughing alone at flag memes",
                  "writing another command. It happens",
                  "teaching math to uninitiated",
-                 "sleeping"
-                 ];
+                 "sleeping"];
 output=kay_array[Math.floor(Math.random()*kay_array.length)]
