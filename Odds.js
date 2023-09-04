@@ -19,4 +19,4 @@ const kay_array=["looking for flags on etsy",
                  "teaching math to uninitiated",
                  "sleeping"
                  ];
-output=kay_array[Math.floor(Math.random()*mods_array.length)]
+output=kay_array[Math.floor(Math.random()*kay_array.length)]
