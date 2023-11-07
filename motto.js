@@ -27,5 +27,6 @@ const motto_array=["Alienate, Aggravate, Assert",
                   "Imagine, Believe, Achieve",
                   "Ready, Aim, Fire",
                   "Lights, Camera, Action",
+                   "Kill, Some, Snails!!!!!",
                   "Ready, Set, Go!"];
 output=motto_array[Math.floor(Math.random()*motto_array.length)]
