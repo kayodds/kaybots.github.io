@@ -43,5 +43,12 @@ const motto_array=["Alienate, Aggravate, Assert",
                    "Bump it, Set it, Smack it down",
                    "Sweat, Sacrifice, Success",
                    "Good, Better, Best",
+                   "Make - some - noise",
+                   "Turn - it - up",
+                   "Find - your - music",
+                   "Hear it, See it, Live it",
+                   "Faster, Higher, Stronger",
+                   "Smile, Sparkle, Shine",
+                   "Passion, Hobby, Ego",
                   "Ready, Set, Go!"];
 output=motto_array[Math.floor(Math.random()*motto_array.length)]
