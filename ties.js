@@ -65,7 +65,7 @@ const tie_array=[" Floral ",
                  " Mustache Train ",
                  " Lesbian-Pansexual ",
                  " FISH FEAR ME ",
-                 " Overly Expensive Pokémon "
+                 " Overly Expensive Pokémon ",
                  " Fish ",
                  " microphone "];
 output=tie_array[Math.floor(Math.random()*tie_array.length)]
